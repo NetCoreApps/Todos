@@ -1,4 +1,4 @@
-## [Todos](https://github.com/ServiceStackApps/Todos)
+## [Todos](https://github.com/NetCoreAppsApps/Todos)
 
 > Backbone.js Todo App powered by a C# Redis Client back-end
 
@@ -6,9 +6,9 @@
 
 #### Features
 
- - [1 ServicStack back-end .cs file](https://github.com/NetCoreApps/Todos/blob/master/src/Todos/Startup.cs)
+ - [1 ServiceStack back-end .cs file](https://github.com/NetCoreApps/Todos/blob/master/src/Todos/Startup.cs)
  - [ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis)
 
 Try it out live at: [todos.servicestack.net](http://todos.servicestack.net)
 
-Follow [@ServiceStack](http://twitter.com) or [+ServiceStack](https://plus.google.com/u/0/communities/112445368900682590445) for updates.
+Follow [@ServiceStack](http://twitter.com) for updates.
