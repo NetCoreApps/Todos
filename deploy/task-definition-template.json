@@ -58,7 +58,7 @@
         }
       ],
       "cpu": 0,
-      "memory": 32,
+      "memoryReservation": 32,
       "image": "redis",
       "essential": true,
       "name": "redis"
